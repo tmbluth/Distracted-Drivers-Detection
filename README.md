@@ -1,6 +1,6 @@
 # Distracted-Drivers-Detection
 
-![Distracted Driver](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiOnL_A3djbAhUkxoMKHQ6yBbAQjRx6BAgBEAU&url=https%3A%2F%2Fitstherealdyl.wordpress.com%2F2016%2F06%2F12%2Fdriving-by-distracted-drivers-part-1%2F&psig=AOvVaw3BIm9lVCdvsxV35norYDdv&ust=1529257293117652)
+![Distracted Driver GIF](https://itstherealdyl.files.wordpress.com/2016/06/output_deb8ot.gif?w=1000)
 
 This image detection task was hosted by State Farm two years ago on Kaggle. Though its been around, it is an excellent place to test different computer vision methods. Images of drivers are taken from the ceiling of the passenger side as they perform various actions, 10 total. Only one of these 10 states are ideal though the model created is made to predict the most probable of all 10 states per image. More info about the data and competition can be found here:
 https://www.kaggle.com/c/state-farm-distracted-driver-detection.
